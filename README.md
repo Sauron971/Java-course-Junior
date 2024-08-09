@@ -17,3 +17,4 @@ During the course, 11 main topics on the Java language were studied.
 There was a lot of practice in each lesson, unfortunately during the new lessons some examples were deleted, and only the latest version of the project was uploaded to github
 After completing each topic, a mini-interview was conducted with questions on the topic.
 At the end of the course, an interview and a test were also completed on all topics of the course
+-----
