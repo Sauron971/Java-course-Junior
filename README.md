@@ -1,7 +1,7 @@
 <img src="https://san2.ru/smiles/flag-60.gif">
 # Java from scratch to Junior + preparing for an interview
 The files that remained after completing the course on the Stepik website "Java from Scratch to Junior + Preparing for an
-interview" are collected. There are also certificates of completion of this course
+interview" are collected. Certificates of completion of the course in the repository
 
 ---
 
@@ -26,7 +26,7 @@ At the end of the course, the final test was successfully completed,
 # Java с нуля до Junior + подготовка к собеседованию
 
 Собраны файлы, которые остались после прохождения курса на сайте Stepik "Java с нуля до Junior + подготовка к
-собеседованию". Также есть сертификаты об окончании этого курса.
+собеседованию". Сертификаты о прохождении курса в репозитории
 
 ---
 
