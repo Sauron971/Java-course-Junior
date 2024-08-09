@@ -5,7 +5,7 @@ interview" are collected. There are also certificates of completion of this cour
 
 ---
 
-During the course, 11 main topics on the Java language were studied.
+The following topics were studied during the course:
 1. Introduction
 2. [Syntax](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/1/)
 3. [OOP](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/2/)
@@ -17,9 +17,9 @@ During the course, 11 main topics on the Java language were studied.
 9. [Input Output streams. Working with files](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/7)
 10. Java Core
 
-There was a lot of practice in each lesson, unfortunately during the new lessons some examples were deleted, and only the latest version of the project was uploaded to github
-After completing each topic, a mini-interview was conducted with questions on the topic.
-At the end of the course, an interview and a test were also completed on all topics of the course
+Each lesson was accompanied by practicing the knowledge gained in practice. 
+As a result of studying each topic, a test was passed.. 
+At the end of the course, the final test was successfully completed,
 
 ---
 <img src="https://ui.germany.ru/photos/894923.100.gif">
@@ -30,18 +30,17 @@ At the end of the course, an interview and a test were also completed on all top
 
 ---
 
-В ходе курса было изучено 11 основных тем по языку Java.
-1. Введение
-2. [Синтаксис](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/1/)
-3. [ООП](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/2/)
-4. Тестирование JUnit на основе Gradle
-5. [Collections Framework](github.com/Sauron971/Java-course-Junior/tree/main/Course/3/)
-6. [Generics](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/4/)
-7. [Concurrency](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/5)
-8. [StreamAPI](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/6)
-9. [Потоки ввода-вывода. Работа с файлами](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/7)
-10. Java Core
+На курсе были изучены следующие темы:
+1. [Синтаксис](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/1/)
+2. [ООП](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/2/)
+3. Тестирование JUnit на основе Gradle
+4. [Collections Framework](github.com/Sauron971/Java-course-Junior/tree/main/Course/3/)
+5. [Generics](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/4/)
+6. [Concurrency](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/5)
+7. [StreamAPI](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/6)
+8. [Потоки ввода-вывода. Работа с файлами](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/7)
+9. Java Core
 
-На каждом уроке было много практики, к сожалению, во время новых уроков некоторые примеры были удалены, и на github была загружена только последняя версия проекта.
-После завершения каждой темы проводилось мини-интервью с вопросами по теме.
-В конце курса также были проведены собеседование и тест по всем темам курса.
+Каждый урок сопровождался отработкой полученных знаний на практике. 
+По итогам изучения каждой темы был пройден тест. 
+По итогам курса успешно было пройдено итоговое тестирование.
