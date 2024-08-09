@@ -1,4 +1,4 @@
-# Java-course-Junior
+# Java from scratch to Junior + preparing for an interview
 The files that remained after completing the course on the Stepik website "Java from Scratch to Junior + Preparing for an
 interview" are collected. There are also certificates of completion of this course
 
@@ -21,6 +21,8 @@ After completing each topic, a mini-interview was conducted with questions on th
 At the end of the course, an interview and a test were also completed on all topics of the course
 
 ---
+
+# Java с нуля до Junior + подготовка к собеседованию
 
 Собраны файлы, которые остались после прохождения курса на сайте Stepik "Java с нуля до Junior + подготовка к
 собеседованию". Также есть сертификаты об окончании этого курса.
