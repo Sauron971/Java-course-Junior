@@ -4,7 +4,7 @@ interview" are collected. There are also certificates of completion of this cour
 ---
 During the course, 11 main topics on the Java language were studied.
 1. Introduction
-2. Syntax
+2. [Syntax](https://github.com/Sauron971/Java-course-Junior/tree/main/Course/1/)
 3. OOP
 4. JUnit testing based on Gradle
 5. Collections Framework
