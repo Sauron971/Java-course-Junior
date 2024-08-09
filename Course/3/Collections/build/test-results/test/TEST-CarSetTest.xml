@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CarSetTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-03-28T15:39:47" hostname="DESKTOP-SIGJCNI" time="0.025">
+  <properties/>
+  <testcase name="whenRemoveThenSizeMustBe99()" classname="CarSetTest" time="0.018"/>
+  <testcase name="ifCarContainsCarReturnTrue()" classname="CarSetTest" time="0.001"/>
+  <testcase name="whenClearThenSizeMustBe0()" classname="CarSetTest" time="0.001"/>
+  <testcase name="whenAdded100ThenSizeMustBe100()" classname="CarSetTest" time="0.0"/>
+  <testcase name="whenAddedEqualCarThenReturnFalse()" classname="CarSetTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
